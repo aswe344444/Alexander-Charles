@@ -1,6 +1,6 @@
 // CSC 134
 // M3T1 
-// norrisa
+// Alexander Charles
 // 2/17/2025
 // Ask the user for the width and length of two rectangles
 // Find the area
