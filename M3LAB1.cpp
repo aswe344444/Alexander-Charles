@@ -62,13 +62,13 @@ int main() {
 // (Defining means "This is what the function does".)
 ////
 
-void chooseDoor1() {
+void chooseTicket1() {
   // this function is called in main if the user chooses 1.
   cout << "You chose Ticket 1" << endl;
   cout << "You win ... A TRIP TO THE BAHAMAS!" << endl;
 }
 
-void chooseDoor2() {
+void chooseTicket2() {
   // this function is called in main if the user chooses 1.
   cout << "You chose Ticket 2" << endl;
   cout << "You win ... a 3 star hotel stay." << endl;
