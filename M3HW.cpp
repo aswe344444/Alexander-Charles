@@ -73,4 +73,5 @@ cout << "question 2" << endl;
     cout << "Tax  \t\t\t$" << tax_amount << endl; 
     cout << "---------------------------------" << endl;
     cout << "Total \t\t$" << total_price << endl;
+}
     
